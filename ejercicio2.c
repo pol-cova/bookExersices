@@ -1,7 +1,7 @@
 //
 // Created by Paul Contreras on 09/03/23.
 //
-/*
+/* Solución problema complementario 3
  * En un supermercado, se realizan descuentos por las compras a partir de unas bolitas de colores:
  * Verde 20%, amarilla 25%, negra del 30%; la blanca no aplica ningún descuento.+
  * Leer el importe de la compra y el color de la bolita e imprimir lo que debe pagar dicho cliente.
