@@ -1,0 +1,4 @@
+/Users/paulcontreras/Documents/GitHub/bookExersices/cmake-build-debug/CMakeFiles/eje1.dir
+/Users/paulcontreras/Documents/GitHub/bookExersices/cmake-build-debug/CMakeFiles/eje2.dir
+/Users/paulcontreras/Documents/GitHub/bookExersices/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/paulcontreras/Documents/GitHub/bookExersices/cmake-build-debug/CMakeFiles/rebuild_cache.dir
